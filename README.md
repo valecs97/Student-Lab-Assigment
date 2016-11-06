@@ -4,9 +4,9 @@
 A application that manages lab assignments for students at a given discipline. The application
 will stores:
 
-Student: <studentID>, <name>, <group>.
-Assignment: <assignmentID>, <description>, <deadline>, <grade>.
-Grade: <assignmentID>, <studentID>, <grade>
+Student: studentID, name, group.
+Assignment: assignmentID, description, deadline, grade.
+Grade: assignmentID, studentID, grade
 
 The application that allows to:
 1. Manage the list of students and available assignments. The application must allow the user to
